@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bea.chapter01.WordCounterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-17T11:53:15" hostname="bkui-Macmini.local" time="0.011">
-  <properties/>
-  <testcase name="count()" classname="com.bea.chapter01.WordCounterTest" time="0.011"/>
-  <system-out><![CDATA[{a=2, b=1}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

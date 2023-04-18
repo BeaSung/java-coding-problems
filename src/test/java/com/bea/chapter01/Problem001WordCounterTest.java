@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-class WordCounterTest {
+class Problem001WordCounterTest {
 
     @Test
     void mapBasic() {
@@ -22,7 +22,7 @@ class WordCounterTest {
 
     @Test
     void count() {
-        WordCounter counter = new WordCounter();
+        Problem001WordCounter counter = new Problem001WordCounter();
         String input = "aba";
 
         Map<Character, Integer> map = counter.count(input);

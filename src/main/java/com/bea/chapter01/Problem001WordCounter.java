@@ -12,7 +12,7 @@ import java.util.Map;
  *  - a : 2
  *  - e : 4
  */
-public class WordCounter {
+public class Problem001WordCounter {
 
     public Map<Character, Integer> count(String input) {
         Map<Character, Integer> countMap = new HashMap<>();
